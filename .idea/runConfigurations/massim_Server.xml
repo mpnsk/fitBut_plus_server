@@ -1,0 +1,22 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="massim.Server" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="massim.Server" />
+    <module name="server" />
+    <option name="PROGRAM_PARAMETERS" value="--monitor -conf conf/SampleConfig.json" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/massim_2020/server" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="massim.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+      <option name="credential" />
+      <option name="region" />
+      <option name="useCurrentConnection" value="false" />
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="run both" type="CompoundRunConfigurationType">
+    <toRun name="agents" type="Application" />
+    <toRun name="massim.Server" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>

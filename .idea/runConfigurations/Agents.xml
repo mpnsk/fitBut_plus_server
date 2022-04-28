@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="agents" type="Application" factoryName="Application">
+  <configuration default="false" name="Agents" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="fitBut.Main" />
     <module name="fitBut" />
     <extension name="coverage">
